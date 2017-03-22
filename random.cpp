@@ -1,8 +1,8 @@
 //
 //  random.cpp
 //
-//  Created by BettySoft on 24.02.17.
-//  Copyright © 2017 BettySoft. All rights reserved.
+//  Created by Bettysoft on 24.02.17.
+//  Copyright © 2017 Bettysoft. All rights reserved.
 //
 
 #include "random.h"
